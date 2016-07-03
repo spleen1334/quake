@@ -1,0 +1,2 @@
+# quake
+Quake cfg
